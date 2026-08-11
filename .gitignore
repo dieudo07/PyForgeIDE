@@ -1,0 +1,59 @@
+# Build
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.dll
+
+# Qt AutoGen
+*_autogen/
+*.qm
+*.moc
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+.ninja_deps
+.ninja_log
+build.ninja
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs
+*.log
+
+# Installer
+PyForgeIDE-installer/
+PyForgeIDE-v*.zip
+PyForgeIDE-v*/
+
+# Personal
+*.local
+create_icon.py
+# Fichiers accidentels
+0
+cmake
+width()
+findBlockByLineNumber*
+*(*
+*)*

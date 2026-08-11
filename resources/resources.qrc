@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <file>icons/pyforge.ico</file>
+        <file>icons/pyforge_16.png</file>
+        <file>icons/pyforge_32.png</file>
+        <file>icons/pyforge_48.png</file>
+        <file>icons/pyforge_64.png</file>
+        <file>icons/pyforge_128.png</file>
+        <file>icons/pyforge_256.png</file>
+    </qresource>
+</RCC>
